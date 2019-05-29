@@ -2,4 +2,4 @@
 
 WIP
 
-All videos belong to their original owners.
+Copyright for all audio files are owned by their respective creators.
