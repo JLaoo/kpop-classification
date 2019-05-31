@@ -1,6 +1,7 @@
 Link to original repository: https://github.com/JLaoo/kpop-classification
 
 # Kpop classification
+Classifying various kpop songs by their groups via machine learning
 
 # Introduction
 
