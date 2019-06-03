@@ -18,3 +18,5 @@ In this project, I'm going to attempting to classify various kpop songs by their
 - The clipping is done to not only to prevent bias during learning, but also to quintuple the size of the dataset.
 
 Copyright for all audio files are owned by their respective creators.
+
+# WIP
