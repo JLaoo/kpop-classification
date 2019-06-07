@@ -23,4 +23,5 @@ In this project, I'm going to attempting to classify various kpop songs by their
 I wanted to do something with kpop so here we are. Dataset is quite small for such an ambitious project, but the accuracy is similar to the one in the blog post and the blog post had a dataset size of 1000 compared to my 300. I suppose I could cut down the 30 second clips into 10 second clips and then maybe take more than 2:30 from each song which would most likely increase my dataset size to >1000. Using Keras is still confusing for me, but I'm slowly getting the hang of it.
 
 Copyright for all audio files are owned by their respective creators.
+
 Inspired by Parul Pandey's blog post found here: https://towardsdatascience.com/music-genre-classification-with-python-c714d032f0d8
