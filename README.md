@@ -17,7 +17,7 @@ In this project, I'm going to attempting to classify various kpop songs by their
 3) Modeling
 - Reading the documentation for CNNs and RNNs at 1 in the morning made my head hurt so I just went with a simple neural net with the feature extraction methods in the LibROSA library.
 - Running the neural net several times seemed to give me an average of around 60% accuracy with my best being 70%
-- The nueral net can probably be fine tuned and made more powerful with slower learning rate and more epochs.
+- The neural net can probably be fine tuned and made more powerful with slower learning rate and more epochs.
 
 # Remarks
 I wanted to do something with kpop so here we are. Dataset is quite small for such an ambitious project, but the accuracy is similar to the one in the blog post and the blog post had a dataset size of 1000 compared to my 300. I suppose I could cut down the 30 second clips into 10 second clips and then maybe take more than 2:30 from each song which would most likely increase my dataset size to >1000. Using Keras is still confusing for me, but I'm slowly getting the hang of it.
